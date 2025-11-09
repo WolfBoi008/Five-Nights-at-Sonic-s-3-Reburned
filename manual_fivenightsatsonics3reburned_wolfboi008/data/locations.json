@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Survive Night 1",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive Night 2",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:1|"
+  },
+  {
+    "name": "Survive Night 3",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:2|"
+  },
+  {
+    "name": "Survive Night 4",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:3|"
+  },
+  {
+    "name": "Survive Night 5",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:4|"
+  },
+  {
+    "name": "Night 5",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:4|",
+    "victory": true
+  },
+  {
+    "name": "Survive Night 6",
+    "region": "Main Nights",
+    "category": [
+      "Main Nights"
+    ],
+    "requires": "|Progressive Night:5|"
+  },
+  {
+    "name": "Achieve the Bad Ending",
+    "region": "Main Nights",
+    "category": [
+      "Endings"
+    ],
+    "requires": "|Progressive Night:5|"
+  },
+  {
+    "name": "Bad Ending",
+    "region": "Main Nights",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:5|",
+    "victory": true
+  },
+  {
+    "name": "Achieve the Good Ending",
+    "region": "Main Nights",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:5| AND |Progressive Secret:5|"
+  },
+  {
+    "name": "Good Ending",
+    "region": "Main Nights",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Night:5| AND |Progressive Secret:5|",
+    "victory": true
+  },
+  {
+    "name": "Survive a Night with Salvage Sonic Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Salvage Sonic|"
+  },
+  {
+    "name": "Survive a Night with Withered Toy Sonic Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Withered Toy Sonic|"
+  },
+  {
+    "name": "Survive a Night with Withered Toy Mario Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Withered Toy Mario|"
+  },
+  {
+    "name": "Survive a Night with Withered Toy Yoshi Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Withered Toy Yoshi|"
+  },
+  {
+    "name": "Survive a Night with Withered Taingle Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Withered Taingle|"
+  },
+  {
+    "name": "Survive a Night with Withered Balloon Toad Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Withered Balloon Toad|"
+  },
+  {
+    "name": "Survive a Night with Boo Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Boo|"
+  },
+  {
+    "name": "Survive a Night with Phantom Mario Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Phantom Mario|"
+  },
+  {
+    "name": "Survive a Night with Phantom Yoshi Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Phantom Yoshi|"
+  },
+  {
+    "name": "Survive a Night with Phantom Tails Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Phantom Tails|"
+  },
+  {
+    "name": "Survive a Night with Golden Sonic Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Golden Sonic|"
+  },
+  {
+    "name": "Survive a Night with Shadow Sonic Active",
+    "region": "Custom Night",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Shadow Sonic|"
+  },
+  {
+    "name": "Salvage Sonic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Salvage Sonic|"
+  },
+  {
+    "name": "Withered Toy Sonic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Toy Sonic|"
+  },
+  {
+    "name": "Withered Toy Mario Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Toy Mario|"
+  },
+  {
+    "name": "Withered Toy Yoshi Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Toy Yoshi|"
+  },
+  {
+    "name": "Withered Taingle Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Withered Taingle|"
+  },
+  {
+    "name": "Boo Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Boo|"
+  },
+  {
+    "name": "Phantom Mario Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Phantom Mario|"
+  },
+  {
+    "name": "Phantom Yoshi Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Phantom Yoshi|"
+  },
+  {
+    "name": "Phantom Tails Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Phantom Tails|"
+  },
+  {
+    "name": "Golden Sonic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Golden Sonic|"
+  },
+  {
+    "name": "Shadow Sonic Jumpscare",
+    "region": "Custom Night",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Shadow Sonic|"
+  },
+  {
+    "name": "Ground Pound",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Salvage Sonic| AND |Phantom Mario| AND |Phantom Yoshi| AND |Withered Toy Mario| AND |Withered Toy Yoshi| AND |Withered Balloon Toad| AND |Boo|"
+  },
+  {
+    "name": "Robot Awakening",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Unforseen Circumstances",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|Salvage Sonic| AND |Phantom Yoshi| AND |Withered Toy Sonic| AND |Withered Toy Yoshi| AND |Withered Balloon Toad| AND |Boo| AND |Shadow Sonic|"
+  },
+  {
+    "name": "Shadows of the Past",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Gasoline",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Burnt to Ashes (Normal Max Mode)",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Burnt to Ashes",
+    "region": "Custom Night",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Characters:12|",
+    "victory": true
+  },
+  {
+    "name": "Darkest Hour (Blackout Max Mode)",
+    "region": "Custom Night",
+    "category": [
+      "Custom Night Challenges"
+    ],
+    "requires": "|@Characters:12|"
+  },
+  {
+    "name": "Darkest Hour",
+    "region": "Custom Night",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Characters:12|",
+    "victory": true
+  }
+]

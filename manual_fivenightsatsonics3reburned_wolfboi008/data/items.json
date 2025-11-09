@@ -1,0 +1,146 @@
+[
+  {
+    "count": "5",
+    "name": "Progressive Night",
+    "category": [
+      "Nights"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Salvage Sonic",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Toy Sonic",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Toy Mario",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Toy Yoshi",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Taingle",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Balloon Toad",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boo",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Sonic",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow Sonic",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Mario",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Yoshi",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Tails",
+    "category": [
+      "Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Salvage Tails",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mario.png",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Withered Luiginette",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "3rd Fario",
+    "category": [
+      "Skins"
+    ],
+    "filler": true
+  },
+  {
+    "count": 5,
+    "name": "Progressive Secret",
+    "category": [
+      "Good Ending Items"
+    ],
+    "progression": true
+  }
+]

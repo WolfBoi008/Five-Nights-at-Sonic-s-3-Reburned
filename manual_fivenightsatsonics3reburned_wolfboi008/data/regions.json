@@ -1,0 +1,10 @@
+{
+  "Main Nights": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Custom Night": {
+    "connects_to": [],
+    "requires": []
+  }
+}
